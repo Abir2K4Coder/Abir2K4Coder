@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I’m Abir 
 
-<!--
-**Abir2K4Coder/Abir2K4Coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student | 💻 Tech Enthusiast | 🚀 Lifelong Learner  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Languages: Java, Python, C, PHP
+- Web: HTML, CSS, JavaScript
+- Tools: VS Code, IntelliJ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- 📬 [XKCD Comic Subscription](https://github.com/abirdey/xkcd-comic-subscriber)
+## 🌐 Connect With Me
+- 💼 LinkedIn - https://www.linkedin.com/in/abir-dey-483277225/
+- 📧 Email: deyabir36@gmail.com
