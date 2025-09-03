@@ -21,7 +21,7 @@ I’m constantly exploring new tools and sharpening my skills in **DSA** and **m
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** React, Next.js, Tailwind CSS
+* **Frontend:** HTML, CSS, React, Next.js, Tailwind CSS
 * **Backend:** Node.js, Express.js, Django (learning)
 * **Database:** MongoDB, MySQL
 * **Other Tools:** Git, VS Code, Postman
@@ -38,7 +38,7 @@ I’m constantly exploring new tools and sharpening my skills in **DSA** and **m
 ## 📫 Connect with Me
 
 * 🌐 [Portfolio](#) *(Coming Soon)*
-* 💼 [LinkedIn](#)https://www.linkedin.com/in/abir-dey-483277225/
+* 💼 [LinkedIn](#) *https://www.linkedin.com/in/abir-dey-483277225/
 * 📧 [deyabir36@gmail.com](mailto:deyabir36@gmail.com)
 
 
