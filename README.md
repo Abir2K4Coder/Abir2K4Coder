@@ -1,77 +1,107 @@
-# Hi 👋, I’m Abir
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&width=600&lines=Full+Stack+Developer+in+the+Making;AI+%26+Machine+Learning+Enthusiast;Building+Real-World+Applications;Always+Learning+%26+Experimenting" alt="Typing SVG" />
+<div align="center">
 
-I’m a passionate developer in the making, driven by the idea of turning complex problems into simple, elegant solutions.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abir+Dey+%F0%9F%91%8B;Computer+Science+Graduate;Aspiring+Software+Developer;Code+%7C+Create+%7C+Innovate" alt="Typing SVG" />
 
-⚡ What excites me most is building applications that not only work but also make an impact — blending **clean code, great user experience, and intelligent technologies**.
+<p>
+  <b>Computer Science Graduate | Aspiring Software Developer</b>
+</p>
 
-I’m primarily focused on **Full Stack Development**, while also exploring **Artificial Intelligence and Machine Learning** to understand how intelligent systems can be integrated into modern applications.
+<a href="https://github.com/Abir2K4Coder">
+  <img src="https://img.shields.io/badge/GitHub-Abir2K4Coder-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://linkedin.com/in/abir-dey-483277225">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:deyabir36@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-I’m constantly exploring new tools, strengthening my **DSA and development skills**, experimenting with AI/ML concepts, and building real-world projects to stay ahead in the fast-changing tech world.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:075985,100:00D9FF&height=3&section=header" width="100%" />
 
-## 💡 About Me
+</div>
 
-* 💻 Full Stack Developer with experience in **JavaScript, React, Node.js, MongoDB**
-* 🤖 **AI & Machine Learning enthusiast** exploring Deep Learning and intelligent applications
-* 🧠 Interested in integrating **AI/ML models with real-world web applications**
-* 📚 Always learning & experimenting with new technologies
-* 🤝 Thrive in collaborative, creative, and adaptable environments
-* 🎯 Goal: Build **scalable, intelligent, and impactful solutions**
+## 👨‍💻 About Me
+
+- 🎓 Computer Science & Engineering graduate.
+- 💻 Interested in software development and web technologies.
+- 🚀 Learning by building personal and academic projects.
+- 🔌 Exploring REST APIs, database integration and authentication.
+- 🌱 Focused on improving problem-solving and development skills.
+- 🎯 Looking for entry-level software development opportunities.
 
 ## 🛠️ Tech Stack
 
-### 🌐 Full Stack Development
+<div align="center">
 
-**Frontend:** HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,express,django,mongodb,mysql,git,github,vscode&perline=7" />
 
-**Backend:** Node.js, Express.js, Django
+</div>
 
-**Database:** MongoDB, MySQL
+## 🚀 Featured Projects
 
-### 🤖 AI / Machine Learning
+### 🎬 Movie Ticket Booking System
+A personal full-stack project built to gain practical exposure to MERN development.
 
-**Languages & Libraries:** Python, NumPy, TensorFlow, Keras
+- Movie browsing and seat selection
+- Authentication using Clerk
+- Stripe payment integration
+- Responsive user interface
 
-**Areas Exploring:** Machine Learning, Deep Learning, Computer Vision, AI-powered Web Applications
+**Stack:** MongoDB · Express.js · React.js · Node.js · Tailwind CSS
 
-### 🔧 Other Tools
+### 🧠 Brain Tumour Detection System
+An academic project focused on brain MRI image classification using a trained deep learning model.
 
-Git • GitHub • VS Code • Postman • REST APIs
+- MRI image preprocessing
+- Tumour category prediction
+- Web interface for displaying results
 
-## 🌟 Current Focus
+**Stack:** Python · TensorFlow/Keras · FastAPI · HTML · CSS · JavaScript
 
-* 🧩 Strengthening **Data Structures & Algorithms**
-* 🌐 Building modern **Full Stack applications**
-* 🤖 Exploring **AI, Machine Learning & Deep Learning**
-* 👁️ Learning **Computer Vision** and AI model integration
-* 🚀 Building real-world projects that combine **Web Development + AI**
-* 📚 Continuously improving my problem-solving and engineering skills
+### 🌦️ Weather Forecasting Web App
+A web application developed during my Python and Django internship.
 
-## 🚀 What I Like Building
+- Weather information using OpenWeatherMap API
+- Basic web interface with HTML and CSS
 
-```text
-🌐 Full Stack Applications
-        +
-🤖 AI / ML Models
-        +
-🧠 Intelligent Features
-        ↓
-💡 Real-World Applications
-```
+**Stack:** Python · Django · REST API fundamentals
 
-I’m particularly interested in building applications where **AI isn't just a model, but an actual useful feature inside a complete product.**
+## 📊 GitHub Statistics
 
-## 📫 Connect with Me
+<div align="center">
 
-🌐 **Portfolio:** Coming Soon
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abir2K4Coder&show_icons=true&theme=tokyonight&hide_border=true" />
 
-💼 **LinkedIn:** https://www.linkedin.com/in/abir-dey-483277225/
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abir2K4Coder&layout=compact&theme=tokyonight&hide_border=true" />
 
-📧 **Email:** [deyabir36@gmail.com](mailto:deyabir36@gmail.com)
+<img src="https://streak-stats.demolab.com?user=Abir2K4Coder&theme=tokyonight&hide_border=true" />
 
----
+</div>
 
-### ✨ Always curious. Always building. Always learning.
+## 💼 Experience
 
-⭐ Feel free to explore my repositories and follow along with my journey!
+**Python & Django Industrial Intern**  
+Ardent Computech Pvt. Ltd. · 2022
+
+Worked on a weather forecasting web application and gained practical exposure to API integration and web development.
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/abir-dey-483277225">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:deyabir36@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say_Hello-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<br/><br/>
+
+**CODE • CREATE • INNOVATE**
+
+<i>Learning, building, and growing one project at a time.</i>
+
+</div>
